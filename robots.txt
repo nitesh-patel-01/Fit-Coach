@@ -1,0 +1,9 @@
+# Fit Coach — AI Personal Trainer
+# robots.txt — allow all crawlers
+
+User-agent: *
+Allow: /
+Disallow:
+
+# Sitemap (update URL after deployment)
+Sitemap: https://fitcoach.app/sitemap.xml
