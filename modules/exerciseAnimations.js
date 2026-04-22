@@ -36,7 +36,7 @@ const px = (id) =>
 // =======================================================================
 export const MALE_IMAGES = {
   // ---- PUSH / CHEST ----
-  pushup:           'https://images.pexels.com/photos/4803730/pexels-photo-4803730.jpeg',
+  pushup:           'https://images.pexels.com/photos/176782/pexels-photo-176782.jpeg',
   pushup_diamond:   'https://i.ibb.co/LdmJDCZP/Screenshot-2024-03-21-at-12-36-05-PM.jpg',
   pushup_decline:   'https://i.ibb.co/2wCJK89/shutterstock-1390575701-eed06c1a-7b77-4082-b262-10470e28ce94-1000x.jpg',
   pushup_incline:   'https://images.pexels.com/photos/4803878/pexels-photo-4803878.jpeg',
